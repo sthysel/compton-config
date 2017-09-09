@@ -1,3 +1,5 @@
-# compton-config
+# compton compositor config
 
-compton compositor config
+```bash
+$ stow dot
+```
