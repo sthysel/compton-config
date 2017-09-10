@@ -1,5 +1,5 @@
 # compton compositor config
 
 ```bash
-$ stow dot
+$ stow -t ${HOME} dot
 ```
